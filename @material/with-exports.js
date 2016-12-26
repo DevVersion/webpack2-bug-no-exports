@@ -1,0 +1,1 @@
+export var Test = "This is my variable";
